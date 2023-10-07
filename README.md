@@ -1,5 +1,13 @@
-<div align='center'><img src='https://user-images.githubusercontent.com/65407488/147992899-93998c0a-75fb-4055-8c06-8da8c49342d6.png'/></div>
+<div align='center'><img src='https://cdn.discordapp.com/attachments/687859445958443048/1160060962615853117/image.png?ex=653349f6&is=6520d4f6&hm=b3476e301e4b18d7bc81e58fe502c947f8a0734ca3c35ba99f4449742da92c3b&'/></div>
+
 <div align='center'><h3><a href='https://overextended.github.io/docs/ox_inventory/'>Read the documentation for setup, installation, and integration</a></h3></div>
+
+# Preview
+<div align='center'><img src='https://cdn.discordapp.com/attachments/687859445958443048/1160060808705884280/image.png?ex=653349d1&is=6520d4d1&hm=e8dad6f96fde2dbf264560b91ffb500c5b8b73db10c898169a227c642249aa98&'/></div>
+<div align='center'><img src='https://cdn.discordapp.com/attachments/687859445958443048/1160060652942020678/image.png?ex=653349ac&is=6520d4ac&hm=dfff8915fd1a87bdb5d3a891e9abde65de3eb2548955c5cf22befd645bd4586a&'/></div>
+<div align='center'><img src='https://cdn.discordapp.com/attachments/687859445958443048/1160061527009796096/image.png?ex=65334a7c&is=6520d57c&hm=79011e9dc93163c6a2a0b3f1a6a353fa9917b7d671b6d9154c22df306609614a&'/></div>
+<div align='center'><img src='https://cdn.discordapp.com/attachments/687859445958443048/1160061527009796096/image.png?ex=65334a7c&is=6520d57c&hm=79011e9dc93163c6a2a0b3f1a6a353fa9917b7d671b6d9154c22df306609614a&'/></div>
+<div align='center'><img src='https://cdn.discordapp.com/attachments/687859445958443048/1160057041520443422/image.png?ex=6533464f&is=6520d14f&hm=f70dd91246fa6078d6787805854f73b76d3626e19bc502a46f6a26e6c5f12e9f&'/></div>
 
 # Framework
 

@@ -1,4 +1,4 @@
-# Full Acces Code ( New Crafting Bench + New Update )
+# Full Access Code ( New Crafting Bench + New Update )
 https://discord.gg/pxBzGSmPQu
 
 # Preview

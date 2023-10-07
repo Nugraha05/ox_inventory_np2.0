@@ -1,3 +1,6 @@
+# Full Acces Code ( New Crafting Bench + New Update )
+https://discord.gg/pxBzGSmPQu
+
 # Preview
 
 <div align='center'><img src='https://cdn.discordapp.com/attachments/687859445958443048/1160060962615853117/image.png?ex=653349f6&is=6520d4f6&hm=b3476e301e4b18d7bc81e58fe502c947f8a0734ca3c35ba99f4449742da92c3b&'/></div>

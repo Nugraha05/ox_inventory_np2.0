@@ -1,4 +1,4 @@
-# Full Access Code ( New Update )
+# Full Update at
 https://discord.gg/pxBzGSmPQu
 
 # Preview

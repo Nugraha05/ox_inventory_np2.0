@@ -1,5 +1,5 @@
-# Full Update at
-https://discord.gg/pxBzGSmPQu
+# Full Update
+> https://discord.gg/pxBzGSmPQu
 
 # Preview
 
